@@ -9,6 +9,7 @@ void main() {
   printName("Prince");
 }
 
+// Defining with a or it's type = Type Def(inition)
 // String
 var salt = "Alkali";
 var name;
@@ -20,4 +21,5 @@ String pepper = "Pepper";
 var age = 12;
 var idNumber = 29;
 
-const isRaining = true; // false
+const isRaining = true; // false/
+
